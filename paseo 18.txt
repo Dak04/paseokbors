@@ -1,12 +1,12 @@
 materiales:
-- cooler        - pelota?
-- tabla         - cartas.
-- cuchillos     - carbon.
-- pinsas        - cargador....
-- cervilletas   - hervidor?
-- cervicio.     - limpiador de parrillas.
-- mantel        - parrillas.
-- platos.       - bolsas de basura.
+- cooler.        - pelota?
+- tabla.         - cartas.
+- cuchillos.     - carbon.
+- pinsas.        - cargador....
+- cervilletas.   - hervidor?
+- cervicio.      - limpiador de parrillas.
+- mantel.        - parrillas.
+- platos.        - bolsas de basura.
 
 comida: 
 - 250 g de carne X persona. 3 kilos de carne aprox
