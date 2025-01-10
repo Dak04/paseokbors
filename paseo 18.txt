@@ -6,11 +6,11 @@ materiales:
 - cervilletas   - hervidor?
 - cervicio.     - limpiador de parrillas.
 - mantel        - parrillas.
-- platos.
+- platos.       - bolsas de basura.
 
 comida: 
 - 250 g de carne X persona. 3 kilos de carne aprox
-- pan. 15- 20 un.
+- pan. 15- 22 un.
 - longa 1 kilo.
 - sal gruesa.
 - hielo.
@@ -21,7 +21,9 @@ comida:
 - bebidas.
 - te?
 - cafe?
+- azucar.
 - verduras pal vegano?.
+- weas pa picar.
 
 
 participantes:
