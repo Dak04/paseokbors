@@ -21,6 +21,7 @@ comida:
 - bebidas.
 - te?
 - cafe?
+- verduras pal vegano?.
 
 
 participantes:
