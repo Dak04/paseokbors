@@ -1,9 +1,9 @@
 materiales:
 - cooler        - pelota?
 - tabla         - cartas.
-- cuchillos     -
-- pinsas
-- cervilletas
+- cuchillos     - carbon.
+- pinsas        - cargador....
+- cervilletas   - hervidor?
 - cervicio.
 - mantel
 - platos.
@@ -18,10 +18,9 @@ comida:
 - mayo.
 - pollo?
 - bebidas.
-- hervidor?
 - te?
 - cafe?
-- cargador....
+
 
 participantes:
 - gio.
