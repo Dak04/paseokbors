@@ -4,8 +4,8 @@ materiales:
 - cuchillos     - carbon.
 - pinsas        - cargador....
 - cervilletas   - hervidor?
-- cervicio.
-- mantel
+- cervicio.     - limpiador de parrillas.
+- mantel        - parrillas.
 - platos.
 
 comida: 
