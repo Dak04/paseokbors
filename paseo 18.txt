@@ -1,0 +1,37 @@
+materiales:
+- cooler        - pelota?
+- tabla         - cartas.
+- cuchillos     -
+- pinsas
+- cervilletas
+- cervicio.
+- mantel
+- platos.
+
+comida: 
+- 250 g de carne X persona. 3 kilos de carne aprox
+- pan. 15- 20 un.
+- longa 1 kilo.
+- sal gruesa.
+- hielo.
+- agua.
+- mayo.
+- pollo?
+- bebidas.
+- hervidor?
+- te?
+- cafe?
+- cargador....
+
+participantes:
+- gio.
+- javi.
+- matias.
+- gabriel.
+- pancho.
+- mayra.
+- maxi.
+- sopapi.
+- alex.
+- jordan.
+- bastian.
