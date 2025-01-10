@@ -1,5 +1,8 @@
 PASEO PARA EL 18 de ENERO del 2025 al cajon del maipo.
 
+valor cuota por persona aprox $15.000. 
+valor entrada del recinto $10.000.
+
 url: https://www.raftingmaipoexpediciones.cl/#about
 
 (se supone que llegaremos a este luhar :D )

@@ -17,6 +17,7 @@ comida:
 - agua.
 - mayo.
 - pollo?
+- pulpa de cerdo.
 - bebidas.
 - te?
 - cafe?
